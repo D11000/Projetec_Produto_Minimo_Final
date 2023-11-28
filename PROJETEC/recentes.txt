@@ -1,0 +1,12 @@
+O alquimista
+Sinopse: O Alquimista relata as aventuras de Santiago, um jovem pastor andaluz que abandona a sua terra natal e viaja pelo Norte de África em busca de uma quimera — um tesouro enterrado sob as pirâmides. Uma cigana, um homem que diz ser rei e um alquimista irão ajudá-lo na sua busca.
+/static/livros/oalquimista.jpg
+/static/estrelas/4.png
+Princesa Sara
+Sinopse: “Princesa Sara é um livro de fantasia da autora brasileira Mariana Araújo. A obra narra a história de um pequeno país chamado Caliestel, que é dividido em dez cidades com nomes distintos.”
+/static/livros/princesasara.jpg
+/static/estrelas/4.png
+1984
+Sinopse:Após uma guerra global, semelhante à segunda grande guerra, porém com mais bombas atômicas, o mundo foi dividido em três continentes: Lestásia, Eurásia e Oceania, onde fica a cidade de Londres. Esse último é comandado pelo líder Big Brother, a figura máxima de poder e controle, “o olho que tudo vê”
+/static/livros/1984.jpg
+/static/estrelas/3.png

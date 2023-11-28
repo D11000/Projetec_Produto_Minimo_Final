@@ -1,0 +1,12 @@
+O Guarani
+Sinopse: O Guarani conta a historia de Peri, um índio forte e leal da Nação Goitacá e sua relação com a familia de dom Antonio de Mariz, um fidalgo português. Peri e o protetor de Cecilia, uma bela donzela filha de dom Antonio. Com a morte acidental de uma índia aimoré pelo irmão de Cecilia, dom Diogo, a familia portuguesa corre perigo, pois a tribo busca vingança. Assim, Ceci e sua família contarão com a ajuda e proteção de Peri, o bravo herói brasileiro desta importante obra do Romantismo.
+static/livros/oguarani.webp
+static/estrelas/5.png
+Kiwi, O vendedor
+Sinopse: Nesta história, a Mônica, o Cebolinha, a Magali e o Cascão estão brincando no parque quando eles encontram um vendedor ambulante chamado Kiwi.
+/static/livros/2.jpg
+/static/estrelas/4.png
+Aventura na Ciencia (Ecologia)
+Sinopse: Como se organizar as cadeias alimentares? Os lemingues de fato cometem suicidio? Por que ha mais seres humanos do que tigres? Como as minhocas ajudam a manter a vida na Terra? .O que é ecossistema? Ache as respostas para estas e outras questoes numa fascinante viagem pela ecologia. Fotografias supercoloridas de animais, plantas e ecossistemas revelam idéias e descobertas que mudaram nossa compreensão de mundo
+/static/livros/1.jpg
+static/estrelas/5.png

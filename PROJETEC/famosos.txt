@@ -1,0 +1,12 @@
+Turma da Mônica: Unicórnio lilás
+Sinopse: Mônica para de repente em outra dimensão, tenta derrotar um ogro gigante e salvar um filhote de unicórnio.
+/static/livros/unicorniolilas.jpg
+/static/estrelas/5.png
+Turma da Mônica e Ronaldinho: em busca da humanidade perdida
+Sinopse:Nesta história, a Mônica, o Cebolinha, a Magali e o Cascão estão jogando bola no parque quando são atingidos por um raio misterioso.
+/static/livros/humanidadeperdida.webp
+/static/estrelas/4.png
+Os Três Porquinhos
+Sinopse: Dois porquinhos não ajudavam em nada na casa, enquanto o terceiro porquinho sentia pena da quantidade de trabalho que a mamãe tinha e estava sempre disposto a ajudá-la. Num belo dia, a mamãe, acreditando da maturidade dos filhos, pediu que saíssem de casa para seguir suas próprias vidas.
+/static/livros/pintandoo7.jpg
+/static/estrelas/5.png
